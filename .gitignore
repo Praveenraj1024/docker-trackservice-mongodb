@@ -15,7 +15,6 @@ out/
 .sts4-cache
 
 ### IntelliJ IDEA ###
-*.xml
 .idea
 *.iws
 *.iml
